@@ -22,7 +22,7 @@ var lyr_lgjaktomrden_1 = new ol.layer.Tile({
                                 "VERSION": "1.3.0"},
                             })),
                             title: "Älgjaktområden",
-                            opacity: 1.000000,
+                            opacity: 0.350000,
                             
                             
                           });

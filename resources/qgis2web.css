@@ -68,7 +68,7 @@ html, body {
 }
 
 #popup-content {
-	font-size: 18px;
+	font-size: 15px;
     line-height: 1.2;
     margin-top: 5px;
 	max-height: 50vw;
@@ -77,11 +77,11 @@ html, body {
 }
 
 #popup-content strong {
-    font-size: 18px; /* Tillämpa samma teckenstorlek för starkt tagg (rubrik) */
+    font-size: 15px; /* Tillämpa samma teckenstorlek för starkt tagg (rubrik) */
 }
 
 #popup-content td {
-    font-size: 18px; /* Tillämpa samma teckenstorlek för tabellceller (dataattribut) */
+    font-size: 15px; /* Tillämpa samma teckenstorlek för tabellceller (dataattribut) */
 }
 
 #popup-content ul {

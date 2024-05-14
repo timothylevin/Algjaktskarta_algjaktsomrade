@@ -76,6 +76,14 @@ html, body {
 	overflow-x: auto;
 }
 
+#popup-content strong {
+    font-size: 18px; /* Tillämpa samma teckenstorlek för starkt tagg (rubrik) */
+}
+
+#popup-content td {
+    font-size: 18px; /* Tillämpa samma teckenstorlek för tabellceller (dataattribut) */
+}
+
 #popup-content ul {
     list-style-type: none;
     padding-left: 0;
